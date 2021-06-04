@@ -1,2 +1,2 @@
 # EE5934_proj1
-Project 1
+NUS EE5934 Deep Learning Project 1
